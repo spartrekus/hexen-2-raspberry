@@ -1,0 +1,1 @@
+/home/pi/hexen/hexen2source-1.5.9/engine/hexen2# ./build_all.sh     
